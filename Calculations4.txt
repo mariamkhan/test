@@ -1,0 +1,8 @@
+#
+For FV=$500.0, r=7.0%, n=1.0year; the computed PV=$467.29
+For FV=$750.0, r=9.5%, n=3.0year; the computed PV=$571.24
+The computed Delta is 41.58$/%
+#
+For FV=$750.0, r=9.5%, n=3.0year; the computed PV=$571.24
+For FV=$-550.0, r=2.5%, n=2.0year; the computed PV=$-523.5
+The computed Delta is 156.39$/%
