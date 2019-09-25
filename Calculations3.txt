@@ -1,0 +1,16 @@
+#
+For FV=$100.0, r=5.0%, n=1.0year; the computed PV=$95.24
+For FV=$-50.0, r=5.0%, n=2.0year; the computed PV=$-45.35
+Delta cannot be computed for no rate change
+#
+For FV=$-50.0, r=5.0%, n=2.0year; the computed PV=$-45.35
+For FV=$35.0, r=5.0%, n=3.0year; the computed PV=$30.23
+Delta cannot be computed for no rate change
+#
+For FV=$35.0, r=5.0%, n=3.0year; the computed PV=$30.23
+For FV=$-35.0, r=5.0%, n=1.0year; the computed PV=$-33.33
+Delta cannot be computed for no rate change
+#
+For FV=$-35.0, r=5.0%, n=1.0year; the computed PV=$-33.33
+For FV=$50.0, r=5.0%, n=1.0year; the computed PV=$47.62
+Delta cannot be computed for no rate change
